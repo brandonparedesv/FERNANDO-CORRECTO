@@ -8,7 +8,7 @@ const CONFIG = {
     valentineName: "Fernando",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    // You can use emojis! 💝 💖 💗 💓 💞 💕💛💚
     pageTitle: "¿Te gustaria ser mi San Valetin? 💝",
 
     // Floating emojis that appear in the background
